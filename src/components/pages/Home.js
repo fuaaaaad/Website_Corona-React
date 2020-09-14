@@ -50,7 +50,7 @@ const Home = () => {
      </Card>
     </Link>
 
-    <Link to = '/ContactInfo'>
+    <Link to = '/ContactLink'>
     <Card className="bg-dark text-white">       
        <Card.Img src={require("../../Assets/notification.png")}  alt="Card image" />
        <Card.ImgOverlay>
